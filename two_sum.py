@@ -3,7 +3,7 @@ Write a function two_sum(nums, target) that takes a list nums and an integer tar
 
 If there are no such numbers, the function should return None.
 
-print(two_sum([2, 7, 11, 15], 9))  # Вывод: [0, 1]
+print(two_sum([2, 7, 11, 15], 9))  # Output: [0, 1]
 '''
 
 def two_sum(nums, target):
